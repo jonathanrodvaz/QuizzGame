@@ -1,0 +1,14 @@
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\bin\Debug\net6.0\QuizzGame.exe
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\bin\Debug\net6.0\QuizzGame.deps.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\bin\Debug\net6.0\QuizzGame.runtimeconfig.json
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\bin\Debug\net6.0\QuizzGame.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\bin\Debug\net6.0\QuizzGame.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\QuizzGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\QuizzGame.AssemblyInfoInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\QuizzGame.AssemblyInfo.cs
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\QuizzGame.csproj.CoreCompileInputs.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\QuizzGame.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\refint\QuizzGame.dll
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\QuizzGame.pdb
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\QuizzGame.genruntimeconfig.cache
+C:\Users\jhrva\Desktop\Proyectos\C-Sharp_Projects\QuizzGame\QuizzGame\obj\Debug\net6.0\ref\QuizzGame.dll
